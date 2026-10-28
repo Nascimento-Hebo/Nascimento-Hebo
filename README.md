@@ -9,18 +9,18 @@
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
 Construo aplicações web do front ao back-end, com foco em interfaces rápidas e responsivas e em soluções que resolvem problemas reais.
 
-- 🤖 Venho me especializando em **integrar inteligência artificial a produtos web**
-- 🔨 Projeto mais recente: **[Radar de Vagas](https://github.com/Nascimento-Hebo/radar-vagas)**, que reúne vagas e adapta o currículo com IA
-- 🎓 Formação Full Stack na **Dev Club**
-- 💡 Gosto de transformar ideias em produto funcionando: começo simples, entrego rápido e evoluo com o uso real
+- Venho me especializando em **integrar inteligência artificial a produtos web**
+- Projeto mais recente: **[Radar de Vagas](https://github.com/Nascimento-Hebo/radar-vagas)**, que reúne vagas e adapta o currículo com IA
+- Formação Full Stack na **Dev Club**
+- Gosto de transformar ideias em produto funcionando: começo simples, entrego rápido e evoluo com o uso real
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 **Front-end**
 <p>
@@ -48,7 +48,7 @@ Construo aplicações web do front ao back-end, com foco em interfaces rápidas 
 
 ---
 
-### 📂 Projetos em destaque
+### Projetos em destaque
 
 | Projeto | O que faz | Tecnologias | Links |
 |---|---|---|---|
